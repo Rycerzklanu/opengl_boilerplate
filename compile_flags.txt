@@ -1,2 +1,3 @@
+-I/home/rycer/dev/opengl/include
 -I/usr/include/c++/11 
 -I/usr/include/x86_64-linux-gnu/c++/11
